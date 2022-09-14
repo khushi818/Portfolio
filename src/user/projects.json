@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "Calender",
+        "image": "assets/calender.png",
+        "github": "https://github.com/khushi818/Calender",
+        "demo": "https://calender-eight.vercel.app/"
+    },
+    {
+        "id": "2",
+        "title": "landing_page",
+        "image": "assets/pokemon-landing.png",
+        "github": "https://github.com/khushi818/pokemon-landing-page",
+        "demo": "https://pokemon-landing-page-mocha.vercel.app/"
+    },
+    {
+        "id": "3",
+        "title": "book_list",
+        "image": "assets/book_list.png",
+        "github": "https://github.com/khushi818/MyBookList-App",
+        "demo": "https://luminous-jelly-c82b24.netlify.app/"
+    },
+    {
+        "id": "4",
+        "title": "Timer for new year",
+        "image": "assets/Timer.PNG",
+        "demo": "https://codepen.io/khushi818/pen/poaYedp"
+    },
+    {
+        "id": "4",
+        "title": "Twitter-Box",
+        "image": "assets/tweet-box.PNG",
+        "demo": "https://codepen.io/khushi818/pen/MWGjdNM"
+    }
+]

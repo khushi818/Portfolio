@@ -1,0 +1,51 @@
+.about {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px;
+    gap: 70px;
+    min-height: 100vh;
+}
+
+.about .image-con {
+    width: 50%;
+    object-fit: cover;
+}
+
+.image-con img {
+    border-radius: 15px;
+}
+
+.about .about_content {
+    text-align: left;
+    padding: 60px;
+}
+
+.about p {
+    margin-top: 1rem;
+}
+
+.about span {
+    font-weight: 700;
+    padding-right: 40px;
+    color: var(--dark-secondary)
+}
+
+.about ul li {
+    padding-left: 20px;
+    list-style-type: disc;
+}
+
+.Noteslify a {
+    color: var(--dark-secondary);
+    cursor: pointer;
+}
+
+/* @media screen and (max-width:1024px) {} */
+
+@media screen and (max-width:900px) {
+    .about {
+        flex-direction: column;
+        justify-content: center;
+    }
+}

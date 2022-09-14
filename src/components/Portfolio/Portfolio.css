@@ -1,0 +1,81 @@
+.portfolio_container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2.5rem;
+}
+
+.portfolio_item {
+    padding: 1.3rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    color: var(--white);
+    transition: var(--transition-change);
+    border-color: var(--dark-secondary);
+    background: transparent;
+    cursor: pointer;
+}
+
+.portfolio_item:hover {
+    padding: 1.5rem;
+}
+
+.portfolio_info {
+    background: var(--dark-pri-opacity);
+    padding: 20px 30px;
+    border-radius: 15px;
+}
+
+.portfolio_info h3 {
+    text-align: center;
+}
+
+.portfolio_item_image {
+    border-radius: 1rem;
+    overflow: hidden;
+    padding: 0.2rem;
+    border-radius: 5px;
+    border: 2px solid var(--dark-secondary);
+}
+
+/* =============Form ================== */
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    background: transparent;
+    border: 2px solid var(--dark-sec-opacity);
+    resize: none;
+    color: var(--white);
+}
+
+
+
+.portfolio_item_btn {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* ====== Tablet ===== */
+@media screen and (max-width:1024px) {
+    .portfolio_container {
+        grid-template-columns: 1fr 1fr;
+        gap: 1.2rem;
+    }
+}
+
+/* ======mobile===== */
+@media screen and (max-width:600px) {
+    .portfolio_container {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+}
