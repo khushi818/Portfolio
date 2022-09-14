@@ -37,6 +37,13 @@
     border: 2px solid var(--dark-secondary);
 }
 
+
+.tools {
+    font-size: 14px;
+    text-align: center;
+    padding: 10px;
+}
+
 /* =============Form ================== */
 
 form {

@@ -35,11 +35,7 @@ const Contacts = () => {
                         <h5>@khushiS26</h5>
                         <a href="https://twitter.com/messages/compose?recipient_id=1374964762207907844">Send a message</a>
                     </article>
-                    <article className='contact_option'>
-                        <h4>Email</h4>
-                        <h5>khushijoy61@gmail.com</h5>
-                        <a href="mailto:khushijoy61@gmail.com">Send a message</a>
-                    </article>
+
                 </div>
 
                 {/* end of contact option */}

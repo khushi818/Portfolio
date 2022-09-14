@@ -3,33 +3,48 @@
         "id": 1,
         "title": "Calender",
         "image": "assets/calender.png",
+        "tools": "HTML , CSS , JS , REACTJS , DAYJS",
         "github": "https://github.com/khushi818/Calender",
         "demo": "https://calender-eight.vercel.app/"
     },
     {
-        "id": "2",
+        "id": 2,
+        "title": "Portfolio",
+        "image": "assets/Portfolio.png",
+        "tools": "HTML , CSS , JS , REACTJS , EMAIL JS",
+        "github": "https://github.com/khushi818/Portfolio",
+        "demo": "https://portfolio-xi-six-95.vercel.app/"
+    },
+    {
+        "id": "3",
         "title": "landing_page",
         "image": "assets/pokemon-landing.png",
+        "tools": "HTML , CSS , JS , PokeApi, Scroll-out, Pokemon js Wrapper",
         "github": "https://github.com/khushi818/pokemon-landing-page",
         "demo": "https://pokemon-landing-page-mocha.vercel.app/"
     },
     {
-        "id": "3",
+        "id": "4",
         "title": "book_list",
+        "tools": "HTML , CSS , Bootstrap , JS",
         "image": "assets/book_list.png",
         "github": "https://github.com/khushi818/MyBookList-App",
         "demo": "https://luminous-jelly-c82b24.netlify.app/"
     },
     {
-        "id": "4",
+        "id": "5",
         "title": "Timer for new year",
         "image": "assets/Timer.PNG",
-        "demo": "https://codepen.io/khushi818/pen/poaYedp"
+        "tools": "HTML , CSS , JS",
+        "demo": "https://codepen.io/khushi818/pen/poaYedp",
+        "github": "https://codepen.io/khushi818/pen/poaYedp"
     },
     {
-        "id": "4",
+        "id": "6",
         "title": "Twitter-Box",
         "image": "assets/tweet-box.PNG",
+        "tools": "HTML , CSS ,  JS",
+        "github": "https://codepen.io/khushi818/pen/MWGjdNM",
         "demo": "https://codepen.io/khushi818/pen/MWGjdNM"
     }
 ]
