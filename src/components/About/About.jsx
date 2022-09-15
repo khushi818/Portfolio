@@ -23,7 +23,7 @@ const About = () => {
                     <p><span>Special:</span></p>
                     <ul>
                         <li>Ability to work with documentation</li>
-                        <li>Ability to work with Apis</li>
+                        <li>Ability to work with Api</li>
                         <li>Ability to work in groups</li>
                         <li>Multitasking</li>
                     </ul>

@@ -20,6 +20,7 @@
 }
 
 .portfolio_info {
+    margin-top: 1.5rem;
     background: var(--dark-pri-opacity);
     padding: 20px 30px;
     border-radius: 15px;

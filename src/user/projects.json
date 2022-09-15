@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Calender",
         "image": "assets/calender.png",
-        "tools": "HTML , CSS , JS , REACTJS , DAYJS",
+        "tools": "HTML , Tailwind , JS , REACTJS , DAYJS",
         "github": "https://github.com/khushi818/Calender",
         "demo": "https://calender-eight.vercel.app/"
     },
